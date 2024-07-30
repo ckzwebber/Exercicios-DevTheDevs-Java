@@ -1,6 +1,7 @@
 # DevTheDevs Java
 
-Seja bem-vindo! Este repositório contém a resolução de vários exercícios do curso DevTheDevs (PUC) em Java.
+Seja bem-vindo! Este repositório contém a resolução de vários exercícios do curso DevTheDevs (PUC) em Java. <br>
+- **Tecnologias:** Java.
 
 ## Sobre
 
